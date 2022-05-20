@@ -1,5 +1,5 @@
-## Nama : Mohammad Sofiyan
-## Nim  : 312010225
+## Nama : Reza Tariki Taser
+## Nim  : 312010265
 ## Kelas: TI.20.A2
 ## Matkkul : Pemrograman Web
 
